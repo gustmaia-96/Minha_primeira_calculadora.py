@@ -1,0 +1,12 @@
+#!bin/bash
+
+# Passo a passo 
+
+# 1. Acessei o diretório com o comando cd.
+# 2. Baixei o arquivo da calculadora em .py.
+# 3. Coloquei o arquivo em /home/maia/modulo1/python.
+# 4. Criei os arquivos calculadora.sh e instrucoes.txt usando o nano.
+# 5. No .sh, adicionei o comando para executar o arquivo com python3.
+# 6. No .txt, descrevi o processo realizado.
+# 7. Ajustei as permissões com chmod 744.
+# 8. Executei o script com ./calculadora.sh.
